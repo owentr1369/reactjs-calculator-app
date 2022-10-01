@@ -8,6 +8,12 @@ body {
   margin: 0;
   padding: 0;
   background: linear-gradient(to right, #00aaff, #00ff6c);
+  min-height: 100vh;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+
 }
 
 .calculator-grid {
